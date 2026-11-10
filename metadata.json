@@ -1,0 +1,6 @@
+{
+  "name": "ServerAdminz — AI Services & Intelligent Infrastructure",
+  "description": "Enterprise AI infrastructure management, AIOps, intelligent IT service desk, cloud FinOps, and custom RAG automation engineered by ServerAdminz.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
